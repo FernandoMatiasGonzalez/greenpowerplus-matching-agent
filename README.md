@@ -30,9 +30,7 @@ The system establishes the foundation for future **learning agents**, by structu
 
 ---
 
-### Live Demo
-
-🚀 [Try the live demo](https://greenpowerplus-ai.vercel.app/)
+### Demo
 
 💡 Example queries:
 - "8 kW in Veneto"
